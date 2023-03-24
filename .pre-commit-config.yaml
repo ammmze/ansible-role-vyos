@@ -5,7 +5,7 @@ exclude: ^(docs/variables)
 
 repos:
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.26.3
+    rev: v1.30.0
     hooks:
       - id: yamllint
 
